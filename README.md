@@ -1,4 +1,9 @@
 ### Hi there 👋 I'm Antoine
+![totoro](imggit.gif)   
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <!--
 **Antoine-Mulatier/Antoine-Mulatier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
